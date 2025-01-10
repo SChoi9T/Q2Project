@@ -153,16 +153,22 @@
     	color: #FFB300;
     }
 
-    .instructions {
-    	color: #FFFFFF;
-    }
-
 	.about p {
 		text-align: center;
 		color: #FFFFFF;
 	}
 
-	form {
+	.about h5 {
+		text-align: justify;
+		color: #FFFFFF;
+	}
+
+	.about ul {
+		text-align: justify;
+		color: #FFFFFF;
+	}
+
+	.form h6 {
 		color: #FFFFFF;
 	}
 
